@@ -19,6 +19,7 @@ I speak native Spanish,
 English in a professional level, 
 and German on the way!
 
+Based in Berlin.
 
 
 You can find me in LinkedIn: https://www.linkedin.com/in/maria-ibanez-rubio/
