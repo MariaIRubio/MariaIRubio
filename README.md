@@ -1,4 +1,4 @@
-## I am looking a company to make my Practicum! 
+## I am looking for a company to make my Practicum! 
 
 ### Hi there 👋 
 I am María, 
