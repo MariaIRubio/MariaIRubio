@@ -12,7 +12,7 @@ Currently learning Java with DCI in an intensive more-than-one-year professional
 - #### Concurrency | Thread Pools | Synchronizers
 - #### Multithreading | Synchronize Blocks | Volatile variables
 - #### Streams | Module System | Localization
-- #### Build Tools | Maven | Graven
+- #### Build Tools | Maven | Gradle
 - #### IDE | Eclipse | Intellij Community | Intellij Ultimate 
 - #### Database | SQL | MySQL | PostgreSQL | JDBC
 - #### Spring Framework | Core | Boot | DATA JPA | ORM | Hibernate | SpringWeb | Security | Test
