@@ -1,4 +1,4 @@
-## I am looking for a company to make my Practicum! 
+## Intern in PSI - GridConnect GmbH
 
 ### Hi there 👋 
 I am María, 
