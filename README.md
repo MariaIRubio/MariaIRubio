@@ -17,7 +17,7 @@ I have learnt Java with DCI in an intensive more-than-one-year professional trai
 - #### Database | SQL | MySQL | PostgreSQL | JDBC
 - #### Spring Framework | Core | Boot | DATA JPA | ORM | Hibernate | SpringWeb | Security | Test
 - #### API | Consume Create | Spring Rest | Postman | OpenaAPI | Swagger 
-- #### AWS | EC2 | RDS | S3 | GCP |AppEngine | BigQuery | Could Storage 
+- #### AWS | EC2 | RDS | S3 | GCP | AppEngine | BigQuery | Could Storage 
 - #### Agile Methodology | Scrum
 - #### Language classes | German B2.3 
 
