@@ -1,4 +1,4 @@
-## Intern in PSI - GridConnect GmbH
+## PSI - GridConnect GmbH
 
 ### Hi there 👋 
 I am María, 
